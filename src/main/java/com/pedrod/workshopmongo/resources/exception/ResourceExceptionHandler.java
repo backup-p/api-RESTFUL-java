@@ -1,4 +1,4 @@
-package com.nelioalves.workshopmongo.resources.exception;
+package com.pedrod.workshopmongo.resources.exception;
 
 import javax.servlet.http.HttpServletRequest;
 
